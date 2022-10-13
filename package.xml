@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>2d_maps</name>
+  <version>0.1.0</version>
+  <description>The 2d_maps package(meta package)</description>
+  <maintainer email="hoge@todo.todo">rdc</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export><metapackage/></export>
+</package>
